@@ -1,0 +1,35 @@
+.header {
+    font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+}
+
+#Card {
+    width: 50%;
+    background-color: gray;
+    margin: 10px;
+    font-size: 20px;
+    color: beige;
+    display: inline-block;
+}
+
+h1 {
+    margin: 0;
+}
+p {
+    margin: 0;
+    margin-left: 15px;
+}
+li {
+    margin: 0;
+    color: aquamarine;
+    margin-left: 25px;
+}
+a {
+    margin: 0;
+    color: aquamarine;
+}
+
+body {
+    background-color: black;
+}
